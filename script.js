@@ -20,27 +20,28 @@ const run = async function(){
     await page.goto(url);
     await page.waitForLoadState("load");
        
-          //Sparar certifieringsnummer som skall läggas till i urlen för specifika namn.
+    //Sparar certifieringsnummer som skall läggas till i urlen för specifika namn.
 
-             
-           
-            let certifieringsNummer = await (await ( await page.waitForSelector(".cert-item .cert-item__owner a", {timeout: 4000})).getAttribute("href")).slice(18);
-            
-            
-
-
-            let namnList = await (await page.waitForSelector(".cert-item .cert-item__owner a", {timeout: 4000})).textContent();
-              
-            console.log(certifieringsNummer + "  ", namnList);
-            
-            
-        
-        
-      //await fs.appendFile("./html.txt",certifieringsNummer, err =>{if (err) throw err; console.log("File saved!");});  // Funkar!!!
-           
-       
     
-         
+
+    await page.waitForTimeout(1000);
+    
+    
+    const antal = await page.$$(".cert-item .cert-item__owner a");
+
+    for await (const a of antal){
+        let certifieringsNummer = await (await (a).getAttribute("href")).slice(18);
+        let namnList = await  (a).textContent();
+        console.log(await certifieringsNummer + " : ", namnList);
+    }
+    
+
+    //console.log(certifieringsNummer + "  ", namnList);
+            
+            
+        
+        
+      //await fs.appendFile("./html.txt",certifieringsNummer, err =>{if (err) throw err; console.log("File saved!");});  // Funkar!!!     
    }
 
     browser.close();
