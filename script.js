@@ -11,8 +11,8 @@ const run = async function(){
     const context = await browser.newContext();
     const page = await context.newPage();
     const totalSidor = 20;
-    let index = 1;
     
+    const certNr, namn, arbete, ort, epost = [];
 
    for (let index = 1; index <= totalSidor; index++){
      
@@ -20,30 +20,24 @@ const run = async function(){
     await page.goto(url);
     await page.waitForLoadState("load");
        
-    //Sparar certifieringsnummer som skall läggas till i urlen för specifika namn.
-
+    //Sparar certifieringsnummer som skall läggas till i urlen för specifika namn
     
-
-    await page.waitForTimeout(1000);
-    
-    
+    await page.waitForTimeout(200);
     const antal = await page.$$(".cert-item .cert-item__owner a");
 
     for await (const a of antal){
         let certifieringsNummer = await (await (a).getAttribute("href")).slice(18);
         let namnList = await  (a).textContent();
-        console.log(await certifieringsNummer + " : ", namnList);
+        namn.push(namnList);
+        certNr.push(certifieringsNummer);
     }
-    
-
-    //console.log(certifieringsNummer + "  ", namnList);
-            
-            
-        
-        
-      //await fs.appendFile("./html.txt",certifieringsNummer, err =>{if (err) throw err; console.log("File saved!");});  // Funkar!!!     
+         
    }
+   console.log(certNr);
 
+
+
+    //await fs.appendFile("./html.txt",certifieringsNummer, err =>{if (err) throw err; console.log("File saved!");});  // Funkar!!! 
     browser.close();
 }
 
