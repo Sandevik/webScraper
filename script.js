@@ -1,10 +1,14 @@
 const playwright = require("playwright");
 const fs = require("fs");
+const { toArray } = require("cheerio/lib/api/traversing");
 
+//Inkosekvent då vissa personer inte har mail eller telefonnummer eller liknande men bra proof of concept!
+// Ett sätt att göra det mer consistant är att spara alla cerifikatnummrenas items (epost, webbsida, telefonnummer) hos certifikatnummrena för att hålla reda på dem lättare och sedan sätta ihop dem med namn arrayen. Skita i ordningen men få rätt items på rätt ställe! Spelar ingen roll vad personen har då, då kan man lägga in allt den har istället för att försöka lägga in det som den inte har då skulle ordningen mellan alla namn och deras items stämma 100%. 
+//let alltArray = (...namn[i] + ...temp[i]); console.log(alltArray[0]); => namn, namn.abc@acd.se, 070213142, abc.com, 20-231 (om allt finns, annars) => namn, namn.abc@acd.se abc.com (om bara epost och webbaddress finns)
 
+//Reflektering åvan ^^
 
 const browserType = "chromium";
-
 const run = async function(){
     const browser = await playwright[browserType].launch({headless:false});
     const context = await browser.newContext();
@@ -12,10 +16,8 @@ const run = async function(){
     const totalSidor = 20;
     let certNr = [];
     let namn = [];
-    let webbsida = [];
-    let epost = [];
     let temp = [];
-    let telefonNr = [];
+    let totArray = [];
 
     for (let index = 0; index <= totalSidor; index++){
      //Hämta namn och certifieringsnummer
@@ -36,8 +38,8 @@ const run = async function(){
     } 
 
     //öppnar sidan för specifikt certifikatnummer loopar igenom alla certifikatnummer
-    for await (let a of certNr){
-        url = `https://www.sbsc.se/personcertifikat/${a}`
+    for (let a = 0; a < certNr.length; a++){
+        url = `https://www.sbsc.se/personcertifikat/${certNr[a]}`
         await page.goto(url);
         await page.waitForLoadState();
         await page.waitForTimeout(500);
@@ -45,34 +47,21 @@ const run = async function(){
         // pusha alla epostadresser, telefonnummer, webbsidor
         for await (let b of mail) {
           temp.push(await b.innerHTML());
+          
+          totArray[a] = [namn[a], ...temp];
+          
         }
-        //lägg telefonnummer i separat array
-        for (let i = 0; i < temp.length; i+=3){
-            telefonNr.push(temp[i]);
-        }
-        //-||- med epost
-        for (let i = 1; i < temp.length; i+=3){
-            epost.push(temp[i]);
-        }
-        //-||- med webbsida
-        for (let i = 2; i < temp.length; i+=3){
-            webbsida.push(temp[i]);
-        }
+        temp = [];
     }
-     //ta bort förta elementet som är en kopia 
-            telefonNr.shift();
-            epost.shift();
-            webbsida.shift();
-           console.log(namn[1], epost[1], certNr[1], telefonNr[1], webbsida[1])
+   console.log(totArray);
+           
     for (let index = 0; index < namn.length; index++) {
-        //sparar allt i fil
-        await fs.appendFile("./personer.txt", `${namn[index]}  ${epost[index]}  ${telefonNr[index]}  ${certNr[index]}  ${webbsida[index]}\n`, err =>{if (err) throw err; console.log("File saved!");});  
-        
+       
+             //sparar allt i fil
+        await fs.appendFile("./personer2.txt", `${totArray[index]}    certifikatnummer:${certNr[index]}\n`, err =>{if (err) throw err; console.log("File saved!");});  
+       
+
     }
     browser.close();
 }
-
-
-
-
 run();
