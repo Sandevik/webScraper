@@ -6,7 +6,7 @@ const run = async function(){
     const browser = await playwright[browserType].launch({headless:false});
     const context = await browser.newContext();
     const page = await context.newPage();
-    const totalSidor = 20;
+    const totalSidor = 1; //20
     let certNr = [];
     let namn = [];
     let temp = [];
@@ -14,7 +14,7 @@ const run = async function(){
 
     for (let index = 0; index <= totalSidor; index++){
      //Hämta namn och certifieringsnummer
-        let url = `https://www.sbsc.se/hitta-certifikat/#/personer/kategori/behorig-ingenjor-inbrottslarm/${index}/`
+        let url = `https://www.sbsc.se/hitta-certifikat/#/foretag/kategori/behorig-ingenjor-inbrottslarm/${index}/`
          await page.goto(url);
          await page.waitForLoadState("load");
           //Sparar certifieringsnummer som skall läggas till i urlen för specifika namn
@@ -25,7 +25,7 @@ const run = async function(){
                let namnList = await (a).textContent();
                namn.push(namnList);
               certNr.push(certifieringsNummer);
-         }        
+        }        
     } 
 
     //öppnar sidan för specifikt certifikatnummer loopar igenom alla certifikatnummer
@@ -41,8 +41,7 @@ const run = async function(){
         }
         temp = [];
     }
-   console.log(totArray);
-           
+          
     for (let index = 0; index < namn.length; index++) {
        
              //sparar allt i fil

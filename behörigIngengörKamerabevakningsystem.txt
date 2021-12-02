@@ -1,0 +1,194 @@
+behorig-ingenjor-kamerabevakningssystem
+
+Aftevik, Martin,0340-679290,martin.a@mediateknik.net,http://www.mediateknik.net    certifikatnummer:18-602
+Ackeberg, Tomas,010-722 50 00,info-se@wsp.com,https://www.wsp.com    certifikatnummer:11-240
+Almlöf, Filip,070-5436035,-,http://www.acsakerhet.se    certifikatnummer:18-606
+Al-Bayiti, Ali,08 550 100 85,ali@hyrsakerhetsbolaget.se    certifikatnummer:8-919
+Ammouri, Ali,0737830833,info@sekasecurity.se    certifikatnummer:18-678
+Andersson, Ingemar,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:10-498
+Anunti, Oskari,010-470 10 00,info@securitas.se,http://www.securitas.se    certifikatnummer:17-60
+undefined    certifikatnummer:21-32
+Andersson, Rolf,010-722 50 00,info-se@wsp.com,https://www.wsp.com    certifikatnummer:19-230
+Bergetoft, Felix,08-556 345 40,info@telenta.se,http://www.telenta.se    certifikatnummer:21-125
+Bergman, Henrik,010-478 20 00,info.se@schneider-electric.com,http://www.schneider-electric.com/se    certifikatnummer:10-451
+Assmundson, Eric,08-602 30 00,http://www.bravida.se    certifikatnummer:18-115
+Biro, Anders,020-10 35 00,​​​​​info@corepart.se,http://www.corepart.se    certifikatnummer:19-336
+Biörklund, Jesper,08-602 00 00,info@zenita.se,http://www.zenita.se    certifikatnummer:16-588
+Bergström, Marcus,+46 (0)10-209 05 20,info@vindico.se,http://www.vindico.se    certifikatnummer:21-69
+undefined    certifikatnummer:21-452
+Bolin, Emil,033-10-25 00,info@directlarm.se    certifikatnummer:18-379
+Braa Kjellström, Jack Trygve,08-410 238 00,info@larmatic.se,http://www.larmatic.se    certifikatnummer:21-172
+Brötte, Fredrik,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:16-466
+Bäck, Björn,0101455950    certifikatnummer:21-48
+Bäckström, Adam,info@eitech.se,http://www.eitech.se    certifikatnummer:14-562
+Carlsson, Henrik,info@elajo.se,http://www.elajo.se    certifikatnummer:16-653
+undefined    certifikatnummer:20-82
+Aftevik, Martin,0340-679290,martin.a@mediateknik.net,http://www.mediateknik.net    certifikatnummer:18-602
+Branting, Kerry,0771-78 00 00,info@rejlers.se,http://www.rejlers.se    certifikatnummer:10-478
+Bolander, Andreas,010 472 60 00,info@assemblin.se,http://www.assemblin.com    certifikatnummer:18-653
+Ammouri, Ali,0737830833,info@sekasecurity.se    certifikatnummer:18-678
+Ackeberg, Tomas,010-722 50 00,info-se@wsp.com,https://www.wsp.com    certifikatnummer:11-240
+Andersson, Ingemar,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:10-498
+Al-Bayiti, Ali,08 550 100 85,ali@hyrsakerhetsbolaget.se    certifikatnummer:8-919
+Andersson, Rolf,010-722 50 00,info-se@wsp.com,https://www.wsp.com    certifikatnummer:19-230
+Almlöf, Filip,070-5436035,-,http://www.acsakerhet.se    certifikatnummer:18-606
+Anunti, Oskari,010-470 10 00,info@securitas.se,http://www.securitas.se    certifikatnummer:17-60
+Assmundson, Eric,08-602 30 00,http://www.bravida.se    certifikatnummer:18-115
+Bergetoft, Felix,08-556 345 40,info@telenta.se,http://www.telenta.se    certifikatnummer:21-125
+Bergman, Henrik,010-478 20 00,info.se@schneider-electric.com,http://www.schneider-electric.com/se    certifikatnummer:10-451
+undefined    certifikatnummer:21-32
+Bergström, Marcus,+46 (0)10-209 05 20,info@vindico.se,http://www.vindico.se    certifikatnummer:21-69
+Biro, Anders,020-10 35 00,​​​​​info@corepart.se,http://www.corepart.se    certifikatnummer:19-336
+undefined    certifikatnummer:21-452
+Bolander, Andreas,010 472 60 00,info@assemblin.se,http://www.assemblin.com    certifikatnummer:18-653
+Biörklund, Jesper,08-602 00 00,info@zenita.se,http://www.zenita.se    certifikatnummer:16-588
+Braa Kjellström, Jack Trygve,08-410 238 00,info@larmatic.se,http://www.larmatic.se    certifikatnummer:21-172
+Bäck, Björn,0101455950    certifikatnummer:21-48
+Branting, Kerry,0771-78 00 00,info@rejlers.se,http://www.rejlers.se    certifikatnummer:10-478
+Brötte, Fredrik,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:16-466
+Bäckström, Adam,info@eitech.se,http://www.eitech.se    certifikatnummer:14-562
+Cigéhn Börjesson, Tom,08-602 30 00,http://www.bravida.se    certifikatnummer:10-705
+Bolin, Emil,033-10-25 00,info@directlarm.se    certifikatnummer:18-379
+undefined    certifikatnummer:20-82
+Claesson, Kenneth,0150-48 91 00,info@oppundael.se,http://www.oppunda.se    certifikatnummer:16-25
+undefined    certifikatnummer:15-538
+undefined    certifikatnummer:9-223
+Degrander, Mathias,08-120 191 80,info@ltpab.se,http://www.ltpab.se    certifikatnummer:21-156
+Dahlén, Torbjörn,https://gruppsäkerhetssystem.se/    certifikatnummer:20-119
+Drewes, Eric,026-21 44 45,https://tstgruppen.se/    certifikatnummer:21-86
+Dunér Sunesson, David,021-444 87 00,info@newsafe.se,http://www.newsafe.se    certifikatnummer:20-442
+Ekman, Tomas,011-36 88 80,support.nkpg@greatsecurity.se,http://www.lisu.se    certifikatnummer:9-624
+Ekenberg, Per Ola Anders,08-705 32 00,info@caverion.com,http://www.caverion.se    certifikatnummer:20-365
+Eliasson, Anders,020-10 35 00,​​​​​info@corepart.se,http://www.corepart.se    certifikatnummer:19-337
+Ekström, Tomas,040-98 18 00,info@lansalarm.se,http://www.lansalarm.se    certifikatnummer:19-88
+El Sayed, Ahmed Nabil Abdelazim ,010 - 510 44 00,info@swedsecur.se,http://www.swedsecur.se    certifikatnummer:15-65
+Engdahl, Mikael,info@eitech.se,http://www.eitech.se    certifikatnummer:18-357
+Englund, Andreas,0736540974,andreas.englund@certego.se    certifikatnummer:12-857
+Englund, Rikard,010-470 75 00,info@midroc.se,http://www.midrocelectro.se    certifikatnummer:14-74
+undefined    certifikatnummer:17-590
+Elmefors, Mats,010-516 00 00,http://www.pe.se    certifikatnummer:9-265
+Engström, John,021-444 87 00,info@newsafe.se,http://www.newsafe.se    certifikatnummer:9-626
+Eriksson, Magnus,08-578 980 00,info@biablarm.se,http://www.biablarm.se     certifikatnummer:18-411
+Evervi, Toni,023-79 20 97,http://www.henningsonsel.se    certifikatnummer:21-227
+Fahlén, Andreas,08-626 20 90,service@finlarm.se,http://www.finlarm.se    certifikatnummer:12-277
+Forsberg, Anders,010-470 75 00,info@midroc.se,http://www.midrocelectro.se    certifikatnummer:8-787
+Falck, Kristofer,010-470 75 00,info@midroc.se,http://www.midrocelectro.se    certifikatnummer:18-439
+Frankgard, Oscar,+46 101 02 44 00,https://vinnergi.se/    certifikatnummer:18-623
+Franzén, Thomas,0771-78 00 00,info@rejlers.se,http://www.rejlers.se    certifikatnummer:12-873
+Fredriksson, Johan,010-470 75 00,info@midroc.se,http://www.midrocelectro.se    certifikatnummer:20-87
+Fridström, Micke,0200727282,info@rosengrenslarm.se    certifikatnummer:21-422
+undefined    certifikatnummer:18-110
+Främst, Hampus,0511-125 00,info@ts-skara.se,http://www.ts-skara.se    certifikatnummer:17-459
+Gryth , Robert,08 7408900,info@copiax.se    certifikatnummer:18-415
+Gustafsson, Christian,0418-48 88 00,info@gcgruppen.com,http://www.gcgruppen.com    certifikatnummer:20-453
+Gustafsson, Peter,+46 (0)10-209 05 20,info@vindico.se,http://www.vindico.se    certifikatnummer:18-651
+Gyllström, David,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:20-245
+Hanning, Hans-Christian ,0771-41 11 00,https://www.irisity.com    certifikatnummer:15-360
+Hessel, William,0771-25 45 45,info@certego.se,http://www.certego.se    certifikatnummer:16-276
+Hedvall, Ingvar,021-15 58 32    certifikatnummer:9-252
+Hjärtberg, Joakim,033-108408,order@lasteam.se,http://www.lasteam.se    certifikatnummer:20-511
+Holmgren, Jonas ,0454-566300,info@elcom.se,http://www.elcom.se    certifikatnummer:17-98
+Hjalmarsson, Magnus,0101636400,info@byggbeslag.se,http://www.byggbeslag.se    certifikatnummer:17-148
+Holmsten, David ,08-120 191 80,info@ltpab.se,http://www.ltpab.se    certifikatnummer:16-199
+Hult, Fredrik,+46 (0)8-620 82 00 ,infoswe@confidence.se,http://www.confidence.se    certifikatnummer:20-309
+Carlsson, Henrik,info@elajo.se,http://www.elajo.se    certifikatnummer:16-653
+Holmgren, Christer,010-722 50 00,info-se@wsp.com,https://www.wsp.com    certifikatnummer:11-289
+Jansson, Fredrik,+46 10 505 00 00,info@afconsult.com,http://www.afconsult.com    certifikatnummer:12-865
+Jansson, Tomas,033-108408,order@lasteam.se,http://www.lasteam.se    certifikatnummer:16-118
+undefined    certifikatnummer:17-589
+Hällinen, Lauri,+46(0)8 120 038 00,http://www.exengo.se    certifikatnummer:20-85
+Jarl, Markus,010-452 2000,info@tyrens.se,http://www.tyrens.se    certifikatnummer:17-163
+Jeppsson, Tony,010 – 472 00 00 ,info@levinsel.se,http://www.levinsgruppen.se    certifikatnummer:10-332
+Johansson, Magnus,08-745 70 00,http://www.nymansel.se    certifikatnummer:9-230
+Johansson, Pontus,0771-78 00 00,info@rejlers.se,http://www.rejlers.se    certifikatnummer:18-478
+Juric, Anton,010-175 22 00,info@sectragon.com,http://www.sectragon.com    certifikatnummer:18-205
+Johansson, Daniel,0501-177 08,info@vadsbolarm.se    certifikatnummer:10-366
+Jönsson, Mats,010-55 00 100,http://www.professionellsakerhet.se    certifikatnummer:18-340
+Kancsár, Henrik,08-7754260,http://www.mysec.se    certifikatnummer:19-151
+Karlsson, Jonas,044-12 62 75,info@presom.se,http://www.presom.se    certifikatnummer:9-423
+Karlsson, Lars,08-562 405 00,info@msib.se,http://www.msib.se    certifikatnummer:18-475
+Kindgren, Claes-Henrik,08-545 899 80,http://www.projsec.se    certifikatnummer:10-667
+Karlsson, Niclas,0771-41 11 00,https://www.irisity.com    certifikatnummer:21-126
+Jernström, Joakim,+46 (0)8-620 82 00 ,infoswe@confidence.se,http://www.confidence.se    certifikatnummer:16-298
+Knutson, Tobias ,010-470 10 00,info@securitas.se,http://www.securitas.se    certifikatnummer:12-341
+Klasson, David,08-562 405 00,info@msib.se,http://www.msib.se    certifikatnummer:18-474
+Kogner, Mikael,+46 (0)10-205 16 50  ,http://www.elektronix.se    certifikatnummer:19-184
+Klevenborn, Linus,010-55 00 100,http://www.professionellsakerhet.se    certifikatnummer:18-679
+Konrad, Christian,010-470 75 00,info@midroc.se,http://www.midrocelectro.se    certifikatnummer:18-410
+Kähkönen, Miki Markus,+46 10 505 00 00,info@afconsult.com,http://www.afconsult.com    certifikatnummer:15-586
+Kramer, Ronny,010 472 60 00,info@assemblin.se,http://www.assemblin.com    certifikatnummer:11-862
+Larsson, Thomas,08-602 30 00,http://www.bravida.se    certifikatnummer:17-212
+Laursen, Björn,010-470 10 00,info@securitas.se,http://www.securitas.se    certifikatnummer:14-216
+Légradi, Karl,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:8-721
+Lembke, Mathias,info@passera.se    certifikatnummer:17-111
+Liljebäck, Anders,0771-25 45 45,info@certego.se,http://www.certego.se    certifikatnummer:15-337
+Lindblad, Jerker,010-470 10 00,info@securitas.se,http://www.securitas.se    certifikatnummer:14-217
+Lind, Christer,0736229659,christer.lind@sydantenn.se    certifikatnummer:20-419
+Lindell, Johan,010-722 50 00,info-se@wsp.com,https://www.wsp.com    certifikatnummer:18-635
+Lindström, Magnus,0705-12 18 16    certifikatnummer:8-725
+Lindström, Peter,046-10 80 10 / 042-16 74 00,http://www.prenad.se    certifikatnummer:20-90
+Linné, Fredrik,info@elajo.se,http://www.elajo.se    certifikatnummer:19-584
+Lodén, Staffan,+46 10 505 00 00,info@afconsult.com,http://www.afconsult.com    certifikatnummer:15-524
+Lundberg, Björn,08-705 32 00,info@caverion.com,http://www.caverion.se    certifikatnummer:9-608
+Larsson, Peter,0920-25 75 25,info@norrlarm.se,http://www.norrlarm.se    certifikatnummer:21-252
+Logvinyuk, Evgeniy,08-41072060,info@norsafe.nu,http://www.norsafe.nu    certifikatnummer:21-47
+Lundberg, Robert,08-739 29 00,info@exista.se,http://www.exista.se    certifikatnummer:11-769
+Malm, Henrik,040-6155500,info@apqel.se,http://www.apqel.se    certifikatnummer:18-510
+Marc-Wogau, Simon,0150-662606,http://www.teknikservice.se    certifikatnummer:18-339
+undefined    certifikatnummer:16-454
+Mähl, Dan,08-687 00 50,info@directpartner.se,http://www.directpartner.se    certifikatnummer:11-318
+Masoudi, Katayon ,010-452 2000,info@tyrens.se,http://www.tyrens.se    certifikatnummer:17-257
+Nilsson, Thomas,0480-420010,info@elia.se,http://www.elia.se    certifikatnummer:14-81
+Nilsson, Ola,0470-34 89 50    certifikatnummer:14-37
+Nyman, Matias,08-544 433 50,sweden@carrier.com,https://se.firesecurityproducts.com/sv/home    certifikatnummer:20-74
+Käll, Mats,+46(0)155 21 77 20,info@heda-skandinavien.se,http://www.heda-skandinavien.se    certifikatnummer:17-435
+Oksala, David,021-444 87 00,info@newsafe.se,http://www.newsafe.se    certifikatnummer:19-168
+Olsson, Anders,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:10-519
+Oskarsson, Pierre,010-470 10 00,info@securitas.se,http://www.securitas.se    certifikatnummer:17-319
+Ottosson, Magnus,0771-25 45 45,info@certego.se,http://www.certego.se    certifikatnummer:15-80
+Ohliw, Fredrik,info@passera.se    certifikatnummer:17-112
+Ottosson, Dennis,08-506 405 00,info@dafosecurity.se,http://dafosecurity.se    certifikatnummer:21-306
+Petersson, Tomaz,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:17-574
+Pettersson, Markus,08-705 32 00,info@caverion.com,http://www.caverion.se    certifikatnummer:20-435
+Pettersson, Ola,08-705 32 00,info@caverion.com,http://www.caverion.se    certifikatnummer:20-345
+Qvist, Alexander,info@axlassolidlas.se    certifikatnummer:21-42
+Ramåker, Kristofer,010 472 60 00,info@assemblin.se,http://www.assemblin.com    certifikatnummer:21-60
+Nordin, Martin,08-55 80 37 30,http://www.ipas.se    certifikatnummer:9-450
+Risander Solum, Glenn,0225-451 00,info@dss-larm.com,http://www.dss-larm.com    certifikatnummer:19-102
+Rosenberg, Tobias,0735800856,tobias@widesec.se,http://www.widesec.se    certifikatnummer:14-48
+Ricknäs, Victor Håkan,08-659 55 90,info@soderlarm.se,http://www.soderlarm.se    certifikatnummer:19-583
+Rüttgeroth, Jens,08-626 20 90,service@finlarm.se,http://www.finlarm.se    certifikatnummer:11-847
+Rönnhage, Mats,010 472 60 00,info@assemblin.se,http://www.assemblin.com    certifikatnummer:10-356
+undefined    certifikatnummer:21-3
+Sigrén Johansson, Peter,08-562 405 00,info@msib.se,http://www.msib.se    certifikatnummer:17-72
+Sjöstedt, Niclas,036-16 03 15,info@elektroteam.se ,http://www.elektroteam.se    certifikatnummer:17-246
+Simonsson, Jonas,036-91 010    certifikatnummer:18-134
+Sjölin, Tobias,046-10 80 10 / 042-16 74 00,http://www.prenad.se    certifikatnummer:15-390
+Prenker, Martin,040-6155500,info@apqel.se,http://www.apqel.se    certifikatnummer:15-498
+Stolt, Michael,08-556 345 40,info@telenta.se,http://www.telenta.se    certifikatnummer:20-414
+Swenson, Martin,042-12 06 70,info@elbolagetsyd.se,http://www.elbolagetsyd.se    certifikatnummer:9-555
+Sterner, Björn,010-470 10 00,info@securitas.se,http://www.securitas.se    certifikatnummer:21-109
+Svangren, Peter,010-3333200,info@greatsecurity.se,http://www.greatsecurity.se    certifikatnummer:19-479
+Svensson, Bertil,010-5050000,info@afry.com,http://www.afry.com    certifikatnummer:8-789
+Svensson, Christoffer,0721468452,christoffer.svensson@ramboll.se    certifikatnummer:21-161
+Svensson, Krister,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:14-510
+Sörell, Christopher,08-626 20 90,service@finlarm.se,http://www.finlarm.se    certifikatnummer:17-335
+Turnäs, Carl,042-136 500,order@brandochsakerhet.se,http://www.brandochsakerhet.se    certifikatnummer:10-426
+Uka, Mergim,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:16-476
+Törnblom, Anders,08-705 32 00,info@caverion.com,http://www.caverion.se    certifikatnummer:20-368
+Vadberg, Per,+46 10 505 00 00,info@afconsult.com,http://www.afconsult.com    certifikatnummer:18-240
+undefined    certifikatnummer:18-408
+Waldemarson, Jörgen,08-602 30 00,http://www.bravida.se    certifikatnummer:18-633
+Wahlman, Stefan,08-409 591 90,info@siqure.se,http://www.siqure.se    certifikatnummer:9-461
+Wallgren, Per Olof ,08-7754260,http://www.mysec.se    certifikatnummer:11-78
+Weisby, George ,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:17-77
+Vestergård, Patrik,08-410 238 00,info@larmatic.se,http://www.larmatic.se    certifikatnummer:16-587
+Wickström, Robert,0775-500 700,teknik@avarnsecurity.com,http://www.avarnsecurity.se    certifikatnummer:21-72
+Villanyi, Peter,0761927474,peter@netcam.nu    certifikatnummer:9-109
+Öhrn, Kalle,+46 8-564 727 00,http://www.infratek.se    certifikatnummer:21-388
+Åstrand, Peter,0200727282,info@rosengrenslarm.se    certifikatnummer:17-110
+Winnersjö, Joakim,08-514 942 00,http://www.telehantering.se    certifikatnummer:8-895
+Staaf, Douglas,08-19 80 10,http://www.g-tre.se    certifikatnummer:19-264
+Åhlen, Maria,0771-41 11 00,https://www.irisity.com    certifikatnummer:19-341
+Österbacka, Elias,http://www.bravida.se    certifikatnummer:21-103
+Övergaard, Martin ,08-26 66 33    certifikatnummer:17-137
